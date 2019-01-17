@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 # Test: trying out a config file for Fluidkeys for Teams
 #
 # [[people]]
@@ -15,3 +18,21 @@
   githubUsername = "paulfurley"
   email = "paul@fluidkeys.com"
   fingerprint = "B79F 0840 DEF1 2EBB A72F  F72D 7327 A44C 2157 A758"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJHBAEBCgAxFiEEt58IQN7xLrunL/ctcyekTCFXp1gFAlxAvuMTHHBhdWxAZmx1
+aWRrZXlzLmNvbQAKCRBzJ6RMIVenWLVEEACQF1RygwcjUVmK/l2QHCEuyDqNeOrH
+r+kPQV5Pslcv081SLLyWuGfJ8VGOXI7rXPzjqnPxdjauRRLJk4/ukSO5U7Jops7T
+F3an9QLuS54SgGMrNEuSmqYZsDQNjiMCVOtpqTPc+4vSgi6Vs/ti7SthNNJBxQ0T
+1svhb3rfjXszWNMVrLynCWBRhBCS25gl7veO7Zk7U3vsKMarnzWWYjSdQgVJghe1
+xphEf5DCeGsiNbwaG/BjgIZkqKTkrOR61A7eXdQxGrloqAAU5ufh0p0AF8YbL2l6
+OkfZDLNmozm93cMJWDQ1kA/lEV8OhBpFS+yr14dvjllNUIWMaeMNDON5EeppN0Hi
+XXi50hqjD8R7MfvZO7mSjUSurSMYOTCSY88f8sGWVR+zX1CKc//QXlT9vncZnl8A
+kHw5yEOlajPoTfz5ycIZsSez6zAzn7s2Quh2urBXohi66MwTSIH2GXvq1fP0WzUD
+eydvbSEo7AkCiJJGR8OzJZAp/Ca62kc+C0oTiz774Wuiw3sX25BG/zxZ0I3NSgja
+XcA1j0Drb0z5ROXoE5Ok7BoV6h1foTuiyp09x4aYdrqtSlPl1aBL+2nsIWRitG5a
+8dT338XxaP+16FCaU4Gy2YobA4NTHr8M57dKzAxqYCXLw41NWtt5E1iZYixQSkju
+6B5J4H5Md3S0/w==
+=dW+a
+-----END PGP SIGNATURE-----
