@@ -1,0 +1,17 @@
+# Test: trying out a config file for Fluidkeys for Teams
+#
+# [[people]]
+#   githubUsername = "janedoe"
+#   email = "jane@example.com"
+#   fingerprint = "E63A F0E7 4EB5 DE3F B72D  C981 C991 7093 18EC BDE7"
+
+
+[[people]]
+  githubUsername = "idrysdale"
+  email = "ian@fluidkeys.com"
+  fingerprint = "E63A F0E7 4EB5 DE3F B72D  C981 C991 7093 18EC BDE7"
+  
+[[people]]
+  githubUsername = "paulfurley"
+  email = "paul@fluidkeys.com"
+  fingerprint = "B79F 0840 DEF1 2EBB A72F  F72D 7327 A44C 2157 A758"
